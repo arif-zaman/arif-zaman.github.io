@@ -1,0 +1,35 @@
+- layout: top
+  company: <a href='https://www.unr.edu/'>University of Nevada, Reno</a>
+  # link: https://www.unr.edu/
+  jobs:
+    - title: Graduate Resaerch Assistant
+      dates: August 2019 - present
+  description: | # this will include new lines to allow paragraphs
+    - Throughput Optimizations in High Performance Networks
+    - Faster and Accurate Sample Transfers Modeling
+    - PhD Supervisor: Engin Arslan, Ph.D.
+    - Tools: Python, Java, Scikit-Learn, Tensorflow
+
+- layout: top
+  company: <a href='https://www.telenor.com/'>Telenor Health</a>
+  # link: https://www.telenor.com/
+  jobs:
+    - title: Senior Data Engineer
+      dates: April 2019 - August 2019
+  description: | # this will include new lines to allow paragraphs
+    - Data Mining, Collection and Warehousing 
+    - Distributed Data Pipelines with Batch and Stream Processing Platforms
+    - Applied Machine Learning and Visualizations Dashboards
+    - Tools: Python, Pandas, SQL, PostgreSQL, Plotly, Dash
+  
+- layout: top
+  company: <a href='https://www.ipay.com.bd/'>iPay Systems Limited</a>
+  # link: https://www.ipay.com.bd/
+  jobs:
+    - title: Software Engineer
+      dates: April 2016 - April 2019
+  description: | # this will include new lines to allow paragraphs
+    - Network Analysis, Anamoly Detection, Time-series Forecasting, and Visualizations Dashboards
+    - Low Latency REST API Development with Python, NodeJS, Redis and PostgreSQL
+    - Developed Distributed Data Pipelines, Real-time Events Monitoring \& Alerting Platform
+    - Tools: Python, NodeJS, Pandas, Apache Spark, Kafka, Airflow, SQL, PostgreSQL, MySQL, Cassandra

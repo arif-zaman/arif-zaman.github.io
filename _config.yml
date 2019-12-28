@@ -1,0 +1,50 @@
+# Site
+# repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Md Arifuzzaman
+title: Graduate Research Assistant
+email: arif@nevada.unr.edu
+# website: www.github.com/sproogen/resume-theme
+
+# Social links
+github_username:  arif-zaman
+linkedin_username: ma-zaman
+instagram_username: arif___zaman
+
+# twitter_username: facespics
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm Arif, a graduate research assistant at the High Performance Computing and Networking (HPCN) LAB, University of Nevada, Reno. I have completed a Masters in Applied Statistics from East West University and did my bachelor's in Computer Science and Engineering from Bangladesh University of Engineering and Technology. Before pursuing a doctoral degree, I have worked as a Data Engineer at Telenor Health and Software Engineer at iPay Systems Limited. I specialized in parallel and distributed computing and currently working on the throughput optimizations of high performance networks. I also have hands-on experience in applied machine learning and scientific computing. 
+
+# Projects Section
+projects_title: Publications
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# Footer
+# footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
